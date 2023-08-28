@@ -25,6 +25,6 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.dependency "React"
   spec.dependency "ComPDFKit"
-  spec.dependency "Instant"
+  #spec.dependency "Instant"
 
 end
